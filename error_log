@@ -1,0 +1,77 @@
+[15-Apr-2026 07:06:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate CHECK constraint name 'chk_stock_qty_non_negative' in /home/nmp2006io/public_html/connect_db.php:152
+Stack trace:
+#0 /home/nmp2006io/public_html/connect_db.php(152): mysqli_query()
+#1 /home/nmp2006io/public_html/app.php(4): include_once('/home/nmp2006io...')
+#2 /home/nmp2006io/public_html/index.php(2): include_once('/home/nmp2006io...')
+#3 {main}
+  thrown in /home/nmp2006io/public_html/connect_db.php on line 152
+[15-Apr-2026 07:08:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate CHECK constraint name 'chk_stock_qty_non_negative' in /home/nmp2006io/public_html/connect_db.php:152
+Stack trace:
+#0 /home/nmp2006io/public_html/connect_db.php(152): mysqli_query()
+#1 /home/nmp2006io/public_html/app.php(4): include_once('/home/nmp2006io...')
+#2 /home/nmp2006io/public_html/index.php(2): include_once('/home/nmp2006io...')
+#3 {main}
+  thrown in /home/nmp2006io/public_html/connect_db.php on line 152
+[15-Apr-2026 07:09:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate CHECK constraint name 'chk_stock_qty_non_negative' in /home/nmp2006io/public_html/connect_db.php:152
+Stack trace:
+#0 /home/nmp2006io/public_html/connect_db.php(152): mysqli_query(Object(mysqli), 'ALTER TABLE sto...')
+#1 /home/nmp2006io/public_html/app.php(4): include_once('/home/nmp2006io...')
+#2 /home/nmp2006io/public_html/index.php(2): include_once('/home/nmp2006io...')
+#3 {main}
+  thrown in /home/nmp2006io/public_html/connect_db.php on line 152
+[15-Apr-2026 07:09:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate CHECK constraint name 'chk_stock_qty_non_negative' in /home/nmp2006io/public_html/connect_db.php:152
+Stack trace:
+#0 /home/nmp2006io/public_html/connect_db.php(152): mysqli_query(Object(mysqli), 'ALTER TABLE sto...')
+#1 /home/nmp2006io/public_html/app.php(4): include_once('/home/nmp2006io...')
+#2 /home/nmp2006io/public_html/index.php(2): include_once('/home/nmp2006io...')
+#3 {main}
+  thrown in /home/nmp2006io/public_html/connect_db.php on line 152
+[15-Apr-2026 07:09:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate CHECK constraint name 'chk_stock_qty_non_negative' in /home/nmp2006io/public_html/connect_db.php:152
+Stack trace:
+#0 /home/nmp2006io/public_html/connect_db.php(152): mysqli_query()
+#1 /home/nmp2006io/public_html/app.php(4): include_once('/home/nmp2006io...')
+#2 /home/nmp2006io/public_html/index.php(2): include_once('/home/nmp2006io...')
+#3 {main}
+  thrown in /home/nmp2006io/public_html/connect_db.php on line 152
+[15-Apr-2026 07:09:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate CHECK constraint name 'chk_stock_qty_non_negative' in /home/nmp2006io/public_html/connect_db.php:152
+Stack trace:
+#0 /home/nmp2006io/public_html/connect_db.php(152): mysqli_query()
+#1 /home/nmp2006io/public_html/app.php(4): include_once('/home/nmp2006io...')
+#2 /home/nmp2006io/public_html/index.php(2): include_once('/home/nmp2006io...')
+#3 {main}
+  thrown in /home/nmp2006io/public_html/connect_db.php on line 152
+[15-Apr-2026 07:10:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate CHECK constraint name 'chk_stock_qty_non_negative' in /home/nmp2006io/public_html/connect_db.php:152
+Stack trace:
+#0 /home/nmp2006io/public_html/connect_db.php(152): mysqli_query()
+#1 /home/nmp2006io/public_html/app.php(4): include_once('/home/nmp2006io...')
+#2 /home/nmp2006io/public_html/index.php(2): include_once('/home/nmp2006io...')
+#3 {main}
+  thrown in /home/nmp2006io/public_html/connect_db.php on line 152
+[15-Apr-2026 07:10:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate CHECK constraint name 'chk_stock_qty_non_negative' in /home/nmp2006io/public_html/connect_db.php:152
+Stack trace:
+#0 /home/nmp2006io/public_html/connect_db.php(152): mysqli_query()
+#1 /home/nmp2006io/public_html/app.php(4): include_once('/home/nmp2006io...')
+#2 /home/nmp2006io/public_html/index.php(2): include_once('/home/nmp2006io...')
+#3 {main}
+  thrown in /home/nmp2006io/public_html/connect_db.php on line 152
+[15-Apr-2026 07:10:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate CHECK constraint name 'chk_stock_qty_non_negative' in /home/nmp2006io/public_html/connect_db.php:152
+Stack trace:
+#0 /home/nmp2006io/public_html/connect_db.php(152): mysqli_query()
+#1 /home/nmp2006io/public_html/app.php(4): include_once('/home/nmp2006io...')
+#2 /home/nmp2006io/public_html/index.php(2): include_once('/home/nmp2006io...')
+#3 {main}
+  thrown in /home/nmp2006io/public_html/connect_db.php on line 152
+[15-Apr-2026 07:10:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate CHECK constraint name 'chk_stock_qty_non_negative' in /home/nmp2006io/public_html/connect_db.php:152
+Stack trace:
+#0 /home/nmp2006io/public_html/connect_db.php(152): mysqli_query()
+#1 /home/nmp2006io/public_html/app.php(4): include_once('/home/nmp2006io...')
+#2 /home/nmp2006io/public_html/index.php(2): include_once('/home/nmp2006io...')
+#3 {main}
+  thrown in /home/nmp2006io/public_html/connect_db.php on line 152
+[15-Apr-2026 07:10:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate CHECK constraint name 'chk_stock_qty_non_negative' in /home/nmp2006io/public_html/connect_db.php:152
+Stack trace:
+#0 /home/nmp2006io/public_html/connect_db.php(152): mysqli_query()
+#1 /home/nmp2006io/public_html/app.php(4): include_once('/home/nmp2006io...')
+#2 /home/nmp2006io/public_html/index.php(2): include_once('/home/nmp2006io...')
+#3 {main}
+  thrown in /home/nmp2006io/public_html/connect_db.php on line 152
